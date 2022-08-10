@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-application progid="Excel.Sheet"?>
+ <Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <Worksheet ss:Name="MyProject">
+<Table>
+<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+<Row><Cell><Data ss:Type="String">ID</Data></Cell><Cell><Data ss:Type="String">Project</Data></Cell><Cell><Data ss:Type="String">Reporter</Data></Cell><Cell><Data ss:Type="String">Assigned To</Data></Cell><Cell><Data ss:Type="String">Priority</Data></Cell><Cell><Data ss:Type="String">Severity</Data></Cell><Cell><Data ss:Type="String">Product Version</Data></Cell><Cell><Data ss:Type="String">Category</Data></Cell><Cell><Data ss:Type="String">Date Submitted</Data></Cell><Cell><Data ss:Type="String">View Status</Data></Cell><Cell><Data ss:Type="String">Updated</Data></Cell><Cell><Data ss:Type="String">Summary</Data></Cell><Cell><Data ss:Type="String">Status</Data></Cell><Cell><Data ss:Type="String">Resolution</Data></Cell><Cell><Data ss:Type="String">Fixed in Version</Data></Cell></Row><Row><Cell ><Data ss:Type="Number">0000003</Data></Cell>
+<Cell ><Data ss:Type="String">MyProject</Data></Cell>
+<Cell ><Data ss:Type="String">administrator</Data></Cell>
+<Cell ><Data ss:Type="String">administrator</Data></Cell>
+<Cell ><Data ss:Type="String">none</Data></Cell>
+<Cell ><Data ss:Type="String">trivial</Data></Cell>
+<Cell ><Data ss:Type="String"></Data></Cell>
+<Cell ><Data ss:Type="String">General</Data></Cell>
+<Cell ><Data ss:Type="String">2022-08-10</Data></Cell>
+<Cell ><Data ss:Type="String">public</Data></Cell>
+<Cell ><Data ss:Type="String">2022-08-10</Data></Cell>
+<Cell ><Data ss:Type="String">SL-5B Description of picture in Polish on English version of webpage</Data></Cell>
+<Cell ><Data ss:Type="String">assigned</Data></Cell>
+<Cell ><Data ss:Type="String">open</Data></Cell>
+<Cell ><Data ss:Type="String"></Data></Cell>
+</Row><Row><Cell ><Data ss:Type="Number">0000002</Data></Cell>
+<Cell ><Data ss:Type="String">MyProject</Data></Cell>
+<Cell ><Data ss:Type="String">administrator</Data></Cell>
+<Cell ><Data ss:Type="String">administrator</Data></Cell>
+<Cell ><Data ss:Type="String">low</Data></Cell>
+<Cell ><Data ss:Type="String">minor</Data></Cell>
+<Cell ><Data ss:Type="String"></Data></Cell>
+<Cell ><Data ss:Type="String">General</Data></Cell>
+<Cell ><Data ss:Type="String">2022-08-10</Data></Cell>
+<Cell ><Data ss:Type="String">public</Data></Cell>
+<Cell ><Data ss:Type="String">2022-08-10</Data></Cell>
+<Cell ><Data ss:Type="String">SL-5A - Polish words on English version of website</Data></Cell>
+<Cell ><Data ss:Type="String">assigned</Data></Cell>
+<Cell ><Data ss:Type="String">open</Data></Cell>
+<Cell ><Data ss:Type="String"></Data></Cell>
+</Row><Row><Cell ><Data ss:Type="Number">0000001</Data></Cell>
+<Cell ><Data ss:Type="String">MyProject</Data></Cell>
+<Cell ><Data ss:Type="String">administrator</Data></Cell>
+<Cell ><Data ss:Type="String">administrator</Data></Cell>
+<Cell ><Data ss:Type="String">low</Data></Cell>
+<Cell ><Data ss:Type="String">trivial</Data></Cell>
+<Cell ><Data ss:Type="String"></Data></Cell>
+<Cell ><Data ss:Type="String">General</Data></Cell>
+<Cell ><Data ss:Type="String">2022-08-10</Data></Cell>
+<Cell ><Data ss:Type="String">public</Data></Cell>
+<Cell ><Data ss:Type="String">2022-08-10</Data></Cell>
+<Cell ><Data ss:Type="String">SL-4 - links doesn't work correctly</Data></Cell>
+<Cell ><Data ss:Type="String">assigned</Data></Cell>
+<Cell ><Data ss:Type="String">open</Data></Cell>
+<Cell ><Data ss:Type="String"></Data></Cell>
+</Row></Table>
+</Worksheet></Workbook>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<requirement-specification>
+<req_spec title="Check links on website"  doc_id="Soflab1"  >
+	<revision><![CDATA[2]]></revision>
+	<type><![CDATA[2]]></type>
+	<node_order><![CDATA[0]]></node_order>
+	<total_req><![CDATA[0]]></total_req>
+	<scope><![CDATA[<p>Check all links on main wbsite.</p>]]></scope>
+			<requirement>
+		<docid><![CDATA[Soflab1.1]]></docid>
+		<title><![CDATA[Check links in Polish version f webite]]></title>
+		<version>1</version>
+		<revision>1</revision>
+		<node_order>1</node_order>
+		<description><![CDATA[<p>Polish version</p>]]></description>
+		<status><![CDATA[D]]></status>
+		<type><![CDATA[4]]></type>
+		<expected_coverage><![CDATA[1]]></expected_coverage>
+		
+	</requirement>
+	<requirement>
+		<docid><![CDATA[Soflab1.2]]></docid>
+		<title><![CDATA[Check links in English version of website]]></title>
+		<version>1</version>
+		<revision>1</revision>
+		<node_order>2</node_order>
+		<description><![CDATA[]]></description>
+		<status><![CDATA[D]]></status>
+		<type><![CDATA[4]]></type>
+		<expected_coverage><![CDATA[1]]></expected_coverage>
+		
+	</requirement>
+</req_spec>
+<req_spec title="Check visual content"  doc_id="Soflab2"  >
+	<revision><![CDATA[1]]></revision>
+	<type><![CDATA[1]]></type>
+	<node_order><![CDATA[1]]></node_order>
+	<total_req><![CDATA[0]]></total_req>
+	<scope><![CDATA[<p>Check visual content</p>]]></scope>
+			<requirement>
+		<docid><![CDATA[Soflab2.1]]></docid>
+		<title><![CDATA[Check visual in Polsih]]></title>
+		<version>1</version>
+		<revision>1</revision>
+		<node_order>1</node_order>
+		<description><![CDATA[]]></description>
+		<status><![CDATA[D]]></status>
+		<type><![CDATA[3]]></type>
+		<expected_coverage><![CDATA[1]]></expected_coverage>
+		
+	</requirement>
+	<requirement>
+		<docid><![CDATA[Soflab2.2]]></docid>
+		<title><![CDATA[Check visual in Englih]]></title>
+		<version>1</version>
+		<revision>1</revision>
+		<node_order>2</node_order>
+		<description><![CDATA[]]></description>
+		<status><![CDATA[D]]></status>
+		<type><![CDATA[4]]></type>
+		<expected_coverage><![CDATA[1]]></expected_coverage>
+		
+	</requirement>
+</req_spec>
+</requirement-specification>

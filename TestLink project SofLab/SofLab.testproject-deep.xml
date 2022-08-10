@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite id="" name="" >
+<node_order><![CDATA[]]></node_order>
+<details><![CDATA[]]></details> 
+<testsuite id="16" name="Check if links working" >
+<node_order><![CDATA[1]]></node_order>
+<details><![CDATA[<p>Check if links working.</p>
+]]></details> 
+
+<testcase internalid="25" name="Links check in Polish version">
+	<node_order><![CDATA[1000]]></node_order>
+	<externalid><![CDATA[3]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>1. Latest wersion of Chrome web browser</p>
+
+<p>2. Any operatiing system</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[3]]></importance>
+	<estimated_exec_duration>60.00</estimated_exec_duration>
+	<status>7</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>Type in browser www.softlab.pl</p>
+
+<p>&nbsp;</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>website open in Polish</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[2]]></step_number>
+	<actions><![CDATA[<p>Check if all links working correctly</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>After click on link you are able to open diffrent page.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+<platforms/>
+
+	<requirements>
+		<requirement>
+			<req_spec_title><![CDATA[Check links on website]]></req_spec_title>
+			<doc_id><![CDATA[Soflab1.1]]></doc_id>
+			<version><![CDATA[1]]></version>
+			<title><![CDATA[Check links in Polish version f webite]]></title>
+		</requirement>
+	</requirements>
+</testcase>
+
+<testcase internalid="29" name="Links check in English version">
+	<node_order><![CDATA[1001]]></node_order>
+	<externalid><![CDATA[4]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>1. Latest wersion of Chrome web browser</p>
+
+<p>2. Any operatiing system</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[3]]></importance>
+	<estimated_exec_duration>60.00</estimated_exec_duration>
+	<status>7</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>Type in browser www.soflab.pl</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Open website in Polish</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[2]]></step_number>
+	<actions><![CDATA[<p>Change lnguage by click on English flag icon.</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Change language of website to English.&nbsp;</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[3]]></step_number>
+	<actions><![CDATA[<p>Check links on English version of website</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Llinks working correctly.</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+<platforms/>
+
+	<requirements>
+		<requirement>
+			<req_spec_title><![CDATA[Check links on website]]></req_spec_title>
+			<doc_id><![CDATA[Soflab1.2]]></doc_id>
+			<version><![CDATA[1]]></version>
+			<title><![CDATA[Check links in English version of website]]></title>
+		</requirement>
+	</requirements>
+</testcase>
+</testsuite><testsuite id="34" name="Visual content" >
+<node_order><![CDATA[2]]></node_order>
+<details><![CDATA[<p>Check if visual content is fine</p>
+]]></details> 
+
+<testcase internalid="35" name="Check visual content">
+	<node_order><![CDATA[1000]]></node_order>
+	<externalid><![CDATA[5]]></externalid>
+	<version><![CDATA[1]]></version>
+	<summary><![CDATA[]]></summary>
+	<preconditions><![CDATA[<p>1. Latest wersion of Chrome web browser</p>
+
+<p>2. Any operatiing system</p>
+]]></preconditions>
+	<execution_type><![CDATA[1]]></execution_type>
+	<importance><![CDATA[2]]></importance>
+	<estimated_exec_duration>60.00</estimated_exec_duration>
+	<status>7</status>
+	<is_open>1</is_open>
+	<active>1</active>
+<steps>
+<step>
+	<step_number><![CDATA[1]]></step_number>
+	<actions><![CDATA[<p>Type in browser www.soflab.pl</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Open website in Polish</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[2]]></step_number>
+	<actions><![CDATA[<p>Check visulal content of Polish website</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Note all issues</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[3]]></step_number>
+	<actions><![CDATA[<p>Chnge language to English by clik on English flag icon</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Website should be open in English</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+
+<step>
+	<step_number><![CDATA[4]]></step_number>
+	<actions><![CDATA[<p>Check visual content of English website</p>
+]]></actions>
+	<expectedresults><![CDATA[<p>Note all issues</p>
+]]></expectedresults>
+	<execution_type><![CDATA[1]]></execution_type>
+</step>
+</steps>
+<platforms/>
+
+	<requirements>
+		<requirement>
+			<req_spec_title><![CDATA[Check visual content]]></req_spec_title>
+			<doc_id><![CDATA[Soflab2.1]]></doc_id>
+			<version><![CDATA[1]]></version>
+			<title><![CDATA[Check visual in Polsih]]></title>
+		</requirement>
+		<requirement>
+			<req_spec_title><![CDATA[Check visual content]]></req_spec_title>
+			<doc_id><![CDATA[Soflab2.2]]></doc_id>
+			<version><![CDATA[1]]></version>
+			<title><![CDATA[Check visual in Englih]]></title>
+		</requirement>
+	</requirements>
+</testcase>
+</testsuite></testsuite>
